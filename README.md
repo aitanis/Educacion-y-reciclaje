@@ -27,8 +27,12 @@ Este análisis forma parte de un proyecto universitario más amplio sobre la inf
 
 Se han empleado conjuntos de datos procedentes de diferentes fuentes:
 
-- Datos sobre el nivel educativo de la población por comunidades autónomas.
-- Datos sobre la recogida selectiva de residuos durante 2023.
+- **Ecoembes [3]:** mediante técnicas de *web scraping* se obtuvieron datos sobre las cantidades de plástico y cartón recogidas en los municipios de España, así como el número de contenedores amarillos y azules disponibles en cada municipio.
+- **Ministerio de Política Territorial y Memoria Democrática [6]:** se recopilaron datos sobre los alcaldes de los municipios españoles y su partido político durante la legislatura 2019-2023.
+- **Ecovidrio [4]:** se descargaron datos sobre la cantidad de vidrio recogido en cada comunidad y ciudad autónoma.
+- **Instituto Nacional de Estadística (INE) [7]:** se utilizaron datos relativos al nivel educativo de la población, desglosados por comunidades autónomas.
+
+Estos conjuntos de datos permitieron combinar información de carácter educativo, político y medioambiental para estudiar posibles relaciones entre estas variables.
 
 Las variables principales del análisis son:
 
@@ -80,3 +84,19 @@ También se observaron diferencias entre comunidades autónomas, lo que apunta a
 ## Contexto académico
 
 Proyecto desarrollado en el marco de la asignatura Proyecto I del Grado en Ciencia de Datos de la Universitat Politècnica de València (UPV), durante el curso 2024-2025.
+
+## Referencias bibliográficas
+
+1. Corrado, L., Fazio, A., & Pelloni, A. (2022). Pro-environmental attitudes, local environmental conditions and recycling behavior. *Journal of Cleaner Production, 362*, 132399. https://doi.org/10.1016/j.jclepro.2022.132399
+
+2. Oke, A. (2015). Workplace Waste Recycling Behaviour: A Meta-Analytical Review. *Sustainability, 7*(6), 7175–7194. https://doi.org/10.3390/su7067175
+
+3. Ecoembes. (s. f.). *Barómetro de reciclaje en España*. Recuperado el 22 de abril de 2025, de https://www.ecoembes.com/es/el-proceso-de-reciclaje/datos-de-reciclaje-de-envases-domestico-en-espana/recogida-selectiva-de-envases-domesticos/barometro
+
+4. Ecovidrio. (s. f.). *Datos de reciclaje en España*. Recuperado el 19 de febrero de 2025, de https://www.ecovidrio.es/reciclaje/datos-reciclaje
+
+5. Instituto Nacional de Estadística (INE). (s. f.). *Estadística sobre recogida y tratamiento de residuos*. Recuperado el 13 de febrero de 2025, de https://ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176844&menu=ultiDatos&idp=1254735976612
+
+6. Ministerio de Política Territorial y Memoria Democrática. (s. f.). *Alcaldes y Concejales*. Recuperado el 13 de febrero de 2025, de https://mpt.gob.es/portal/politica-territorial/local/sistema_de_informacion_local_-SIL/alcaldes_y_concejales.html
+
+7. Instituto Nacional de Estadística (INE). (s. f.). *Nivel de formación alcanzado por la población total (de 16 a 64 años) por nivel de educación, CCAA y periodo*. Recuperado el 10 de abril de 2025, de https://www.ine.es/jaxi/Tabla.htm?path=/t00/ICV/dim4/l0/&file=41101.px&L=0
