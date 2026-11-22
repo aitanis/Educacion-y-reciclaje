@@ -81,7 +81,10 @@ Los resultados obtenidos muestran:
 
 
 - **Educación baja:** se obtiene un coeficiente de correlación de Pearson de **−0,524**, lo que refleja una asociación lineal negativa moderada entre el porcentaje de población con niveles educativos bajos y la cantidad de residuos recogidos por persona. En general, los territorios con mayor porcentaje de población con niveles educativos bajos tienden a presentar una menor recogida de residuos por habitante.
-  <img width="994" height="655" alt="image" src="https://github.com/user-attachments/assets/05012e9f-c5b9-4fa2-b9a7-4eaedaa8a51d" />
+  <img width="1000" height="643" alt="image" src="https://github.com/user-attachments/assets/7d136bfe-aa18-4e3d-9d93-515e116f64e5" />
+
+
+
 
 
 En ambos análisis se han emparejado correctamente los datos correspondientes a **19 comunidades y ciudades autónomas**.
